@@ -1,0 +1,10 @@
+< ?xml version='1.0' encoding='utf-8'>
+<books>
+<books id='0001'>
+<title> El señor de los anillos</tittle>
+<author> J.R.R.</autor>
+</books>
+<books id='0002'>
+<title>Don quijote</tittle>
+<author>Cervantes</author>
+</books>
